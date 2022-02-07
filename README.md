@@ -1,4 +1,4 @@
-![This is an image](src/Alodokter.png)
+#  Cari Dokter
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![PyPI status](https://img.shields.io/pypi/status/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 [![GitHub stars](https://badgen.net/github/stars/Khazulys/Caridokter)](https://GitHub.com/Khazulys/Caridokter/stargazers/)
