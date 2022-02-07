@@ -5,10 +5,10 @@
 [![GitHub forks](https://badgen.net/github/forks/Khazulys/Caridokter/)](https://GitHub.com/Khazulys/Caridokter/network/)
 [![GitHub watchers](https://badgen.net/github/watchers/Khazulys/Caridokter/)](https://GitHub.com/Khazulys/Caridokter/watchers/)
 
-## Description
-Scaraping [alodokter.com](https://www.alodokter.com/cari-dokter) for search a doctor in your city.
+## Deskripsi
+Scaraping [alodokter.com](https://www.alodokter.com/cari-dokter) mencari dokter di kotamu.
 
-## Module Required
+## Install Module
 > pip install bs4
 
 > pip install requests
