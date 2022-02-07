@@ -6,14 +6,17 @@
 [![GitHub watchers](https://badgen.net/github/watchers/Khazulys/Caridokter/)](https://GitHub.com/Khazulys/Caridokter/watchers/)
 
 ## Deskripsi
-Scaraping [alodokter.com](https://www.alodokter.com/cari-dokter) mencari dokter di kotamu.
+Scaraping [alodokter.com](https://www.alodokter.com/cari-dokter) mencari dokter sesuai nama kota dan spesialis.
 
 ## Install Module
-> pip install bs4
+`pip install bs4`
 
-> pip install requests
+`pip install requests`
 
-> pip install inquirer
+`pip install inquirer`
 
 ## Run program
-> python cari-dokter.py
+`python cari-dokter.py`
+
+## Output
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
