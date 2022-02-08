@@ -19,4 +19,4 @@ Scaraping [alodokter.com](https://www.alodokter.com/cari-dokter) mencari dokter 
 `python cari-dokter.py`
 
 ## Output
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](src/InShot_20220207_231912564.gif)
