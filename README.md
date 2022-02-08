@@ -1,4 +1,8 @@
-[![caridokter](src/cari-dokter.png)](alodokter.com)
+<div align="center">
+  <a href="https://alodokter.com/cari-dokter">
+    <img src="src/cari-dokter.png" alt="cari-dokter" width="600">
+  </a>
+</div>
 <div align="center">
  <a href="https://www.python.org/">
    <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg">
